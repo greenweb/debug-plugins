@@ -1,0 +1,1330 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"attr",
+				"attribute_escape"
+			],
+			[
+				"get_opt",
+				"get_option	WP Function"
+			],
+			[
+				"fw",
+				"fw-b	font-weight: bold;"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"pre",
+				"prependTo	.prependTo()"
+			],
+			[
+				"f",
+				"font"
+			],
+			[
+				"json",
+				"wp_json_encode	WP Function"
+			],
+			[
+				"add_user",
+				"add_user_meta"
+			],
+			[
+				"get_op",
+				"get_option	WP Function"
+			],
+			[
+				"nick",
+				"nickname"
+			],
+			[
+				"clas",
+				"class	class …"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"ver",
+				"wp_verify_nonce"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bl",
+				"inline-block"
+			],
+			[
+				"table-c",
+				"table-cell"
+			],
+			[
+				"t",
+				"table"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"form",
+				"form_title"
+			],
+			[
+				"form_d",
+				"form_div"
+			],
+			[
+				"doc",
+				"doc_f	Function"
+			],
+			[
+				"para",
+				"param	@param"
+			],
+			[
+				"short",
+				"add_shortcode	WP Function"
+			],
+			[
+				"wp",
+				"wp"
+			],
+			[
+				"bg",
+				"bg+	background: ${1:#fff} url(${2}) ${3:0} ${4:0} ${5:no-repeat};"
+			],
+			[
+				"esu_re",
+				"esu_replace_with"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"esu",
+				"esu_blog_name"
+			],
+			[
+				"the_t",
+				"the_title"
+			],
+			[
+				"esu_b",
+				"esu_blog_name"
+			],
+			[
+				"es",
+				"esu_"
+			],
+			[
+				"custom",
+				"customize"
+			],
+			[
+				"res",
+				"responder"
+			],
+			[
+				"addin",
+				"Additional"
+			],
+			[
+				"hone",
+				"honeypot_value"
+			],
+			[
+				"hon",
+				"honeypot"
+			],
+			[
+				"ho",
+				"honeypot"
+			],
+			[
+				"use_",
+				"use_honeypot"
+			],
+			[
+				"pub",
+				"public"
+			],
+			[
+				"arr",
+				"array〔keyword〕"
+			],
+			[
+				"str_r",
+				"str_replace〔function〕"
+			],
+			[
+				"cla",
+				"class"
+			],
+			[
+				"sub",
+				"$subject〔variable〕"
+			],
+			[
+				"fie",
+				"field"
+			],
+			[
+				"ls",
+				"list-style"
+			],
+			[
+				"ara",
+				"array	$… = array (…)"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"eas",
+				"easy_sign_up"
+			],
+			[
+				"s",
+				"shortcode"
+			],
+			[
+				"W",
+				"WordPress"
+			],
+			[
+				"aut",
+				"autoresponder"
+			],
+			[
+				"su",
+				"support"
+			],
+			[
+				"Short",
+				"shortcode"
+			],
+			[
+				"red",
+				"redirecting"
+			],
+			[
+				"isn",
+				"is_null"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"delete",
+				"delete_option"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"new",
+				"new_data"
+			],
+			[
+				"easys",
+				"easy-sign-up"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"ma",
+				"mapid  (variable)"
+			],
+			[
+				"wp_reg",
+				"wp_register_script"
+			],
+			[
+				"get_post",
+				"get_post_types"
+			],
+			[
+				"fiel",
+				"fields"
+			],
+			[
+				"lang",
+				"LANGDIR"
+			],
+			[
+				"font-s",
+				"font-size:   (property)"
+			],
+			[
+				"cur",
+				"cur	cursor: ${pointer};"
+			],
+			[
+				"That",
+				"that"
+			],
+			[
+				"tt",
+				"tt	text-transform: ${1:uppercase};"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"Be",
+				"before-site-llc"
+			],
+			[
+				"GOOGLE",
+				"google-analytics"
+			],
+			[
+				"re",
+				"remove	.remove()"
+			],
+			[
+				"err",
+				"error_message"
+			],
+			[
+				"er",
+				"error_message"
+			],
+			[
+				"mes",
+				"message"
+			],
+			[
+				"subje",
+				"subject"
+			],
+			[
+				"_",
+				"_REQUEST"
+			],
+			[
+				"aler",
+				"alert"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"va",
+				"valid_email"
+			],
+			[
+				"inp",
+				"input	input - text"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"_R",
+				"_REQUEST  (variable)"
+			],
+			[
+				"am",
+				"amp"
+			],
+			[
+				"FFF",
+				"ffffff"
+			],
+			[
+				"app",
+				"Applications"
+			],
+			[
+				"te",
+				"text	body (depr)"
+			],
+			[
+				"bd",
+				"bd	border"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bor",
+				"border-color:   (property)"
+			],
+			[
+				"ta",
+				"target"
+			],
+			[
+				"im",
+				"!important  (value)"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ali",
+				"text-align:   (property)"
+			],
+			[
+				"web",
+				"Web"
+			],
+			[
+				"w",
+				"wid	width"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bo",
+				"bolder"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"import",
+				"@import	@import url(${0});"
+			],
+			[
+				"dev",
+				"Development"
+			],
+			[
+				"ext",
+				"extend	@extend"
+			],
+			[
+				"App",
+				"application"
+			],
+			[
+				"Real",
+				"Reality"
+			],
+			[
+				"it",
+				"It"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"pos",
+				"pos	position: ${1:relative};"
+			],
+			[
+				"na",
+				"navigation"
+			],
+			[
+				"Nav",
+				"navigation"
+			],
+			[
+				"ts",
+				"tsh-ra	text-shadow: ${1:h} ${2:v} ${3:blur} rgba(${4:0}, ${5:0}, ${6:0}, .${7:5});"
+			],
+			[
+				"us",
+				"user_"
+			],
+			[
+				"Comba",
+				"CombatData  (class)"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"pr",
+				"product_id  (variable)"
+			],
+			[
+				"get_tit",
+				"get_the_title"
+			],
+			[
+				"proi",
+				"product_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "rew-debug.php",
+			"settings":
+			{
+				"buffer_size": 2914,
+				"line_ending": "Unix",
+				"name": "rew-debug.php"
+			}
+		},
+		{
+			"contents": "Searching 8 files for \"register_activation_hook\" (case sensitive)\n\n/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-user-registration/includes/class-easy-user-registration.php:\n   95  		$this->script_suffix = defined( 'SCRIPT_DEBUG' ) && SCRIPT_DEBUG ? '' : '.min';\n   96  \n   97: 		register_activation_hook( $this->file, array( $this, 'install' ) );\n   98  \n   99  		// Load frontend JS & CSS\n\n1 match in 1 file\n",
+			"settings":
+			{
+				"buffer_size": 427,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "\n[eur_login_form_title] => Log in\n[eur_login_form_description] => \n[eur_login_hide_form_label] => no\n[eur_login_submit_class] => \n[eur_form_title] => User Registration Form\n[eur_form_description] => \n[eur_show_tos_link] => \n[eur_tos_link_url] => \n[eur_hide_form_label] => no\n[eur_submit_class] => \n[eur_user_role] => subscriber\n[eur_intergrate_with_follow_up_boss] => no\n[eur_send_admin_notification] => on\n[eur_send_autoresponder] => \n[eur_from_email_address] => rew@rixom.org\n[eur_from_email_text] => Andy's \"Plugin Dev\"\n[eur_welcome_message_text] => \n[eur_shortcode_information] => \n[eur_add_extra_variables_to_url] => no\n[eur_extra_variables_for_url] => ",
+			"settings":
+			{
+				"buffer_size": 658,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Pac re p",
+				"Package Control: Remove Package"
+			],
+			[
+				"Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"set ",
+				"Set Syntax: PHP"
+			],
+			[
+				"lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"set ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"set ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"set",
+				"Set Syntax: PHP"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"pac",
+				"Package Control: Enable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"listp",
+				"Package Control: List Packages"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"list ",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"class",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pagk",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"unm",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"Upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"doc",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"git",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"gith",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"t",
+				"TidyHTML"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"ti",
+				"Tidy PHP"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"plug",
+				"Snippet: Plugin Readme"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"u",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"css",
+				"Tidy CSS (Highest Compression)"
+			],
+			[
+				"ty",
+				"Tidy CSS"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pl",
+				"Snippet: Plugin Head"
+			],
+			[
+				"",
+				"Package Control: Remove Package"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/rew-debug"
+	],
+	"file_history":
+	[
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-user-registration/includes/class-easy-user-registration.php",
+		"/Users/andrewrixom/Library/Application Support/Sublime Text 3/Packages/WordpressDev/WordPressDev.sublime-settings",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-user-registration/assets/css/frontend.min.css",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-user-registration/assets/css/frontend.css",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-user-registration/includes/class-easy-user-registration-process-form.php",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-user-registration/includes/lib/class-easy-user-registration-frontend-api.php",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-user-registration/includes/class-easy-user-registration-settings.php",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-user-registration/easy-user-registration.php",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-user-registration/todo.txt",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-user-registration/includes/untitled.php",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-user-registration/assets/js/frontend.min.js",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-user-registration/assets/js/frontend.js",
+		"/Users/andrewrixom/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/andrewrixom/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-user-registration/includes/lib/class-easy-user-registration-admin-api.php",
+		"/Users/andrewrixom/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/andrewrixom/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-user-registration/assets/js/parsley.js",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-user-registration/assets/js/verify.notify.js",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-user-registration/assets/js/verify.notify.min.js",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-user-registration/includes/lib/class-easy-user-registration-process-form.php",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-user-registration/lib/form-class.php",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-user-registration/lib/input-class.php",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-sign-up/lib/esu-form-process-class.php",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-sign-up/lib/esu-utility-functions.php",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-sign-up/Readme.txt",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-sign-up/easy_sign_up.php",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-sign-up/lib/esu-widget-class.php",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-sign-up/lib/esu-simple-data-page.php",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-sign-up/lib/esu-front-end-class.php",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-sign-up/js/esu-validate.js",
+		"/Users/andrewrixom/Desktop/building-static-websites-with-jekyll-master/portfolio-theme/_config.yml",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-sign-up/css/esu-styles.css",
+		"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-sign-up/lib/includes/esu-widget-setup.php",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/easy-sign-up/lib/esu-admin-class.php",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/easy-sign-up/lib/esu-widget-class.php",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/easy-sign-up/js/esu-validate.js",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/easy-sign-up/lib/esu-front-end-class.php",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/easy-sign-up/easy_sign_up.php",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/easy-sign-up/lib/esu-utility-functions.php",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/easy-sign-up/lib/esu-form-process-class.php",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/easy-sign-up/Readme.txt",
+		"/Users/andrewrixom/Desktop/Rich.txt",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/easy-sign-up/css/stylesheet.css",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/easy-sign-up/languages/esu_lang-nl_NL.po",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/easy-sign-up/lib/esu-simple-data-page.php",
+		"/Users/andrewrixom/Documents/Work/Tower/WordPress/Plugins/Easy Redirect/Readme.txt",
+		"/Users/andrewrixom/Documents/Work/Tower/WordPress/Plugins/Easy Redirect/README.md",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/front-end.php",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/gmap.php",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/back-end.php",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/cmb/map-meta/map-meta-box.php",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/js/temp.js",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/js/map.js",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/cmb/meta-functions.php",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/cmb/js/map.js",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/map.php",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/front-end/map.php",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/front-end/js/map.js",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/cmb-2/map-meta/map-meta-box.php",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/cmb-2/example-functions.php",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/cmb-2/js/map.js",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/cmb/meta-box-functions.php",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/cmb/helpers/cmb_Meta_Box_ajax.php",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/cmb/init.php",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/cmb-2/helpers/cmb_Meta_Box_field.php",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/cmb-2/init.php",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/cmb-2/helpers/cmb_meta_box_map.php",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/cmb-2/helpers/cmb_Meta_Box_ajax.php",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/cmb/style.min.css",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/cmb/js/cmb.min.js",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/cmb/js/cmb.js",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/cmb-map/cmb-field-map.php",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/readme.txt",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/cmb/style.css",
+		"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/g-map/cmb/Gruntfile.js",
+		"/Users/andrewrixom/Desktop/thesis_185 2/lib/languages/thesis.pot",
+		"/Users/andrewrixom/Desktop/pufferfishdesignassets/puffer/header.php",
+		"/Users/andrewrixom/Desktop/smime.p7s",
+		"/Users/andrewrixom/Sites/rixom.org/php/process-form.php",
+		"/Users/andrewrixom/Sites/rixom.org/sass/_mixins.scss",
+		"/Users/andrewrixom/Sites/rixom.org/js/bootstrap.js",
+		"/Users/andrewrixom/Sites/rixom.org/sass/bootstrap.scss",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/sass/bootstrap/_buttons.scss",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/sass/bootstrap/_navbar.scss",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/sass/bootstrap/_variables.scss",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/sass/bootstrap/_theme.scss",
+		"/Users/andrewrixom/Sites/rixom.org/sass/_stylish-portfolio.scss",
+		"/Users/andrewrixom/Sites/rixom.org/index.html",
+		"/Users/andrewrixom/Sites/rixom.org/php/index.php",
+		"/Users/andrewrixom/Sites/rixom.org/index0.html",
+		"/Users/andrewrixom/Sites/rixom.org/css/bootstrap.css",
+		"/Users/andrewrixom/Sites/rixom.org/sass/_alerts.scss",
+		"/Users/andrewrixom/Sites/rixom.org/sass/_typography.scss",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/sass/wp/_reset.scss",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/sass/bootstrap/backup-of_variables.scss",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/sass/bootstrap/_mixins.scss",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/sass/wp/_greenweb-styles.scss",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/tpl/tpl-anchor-navigation.php",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/header.php",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/tpl/tpl-navigation.php",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/inc/theme-page-components.php",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/sass/bootstrap/_grid.scss",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/sass/wp/_settings.scss",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/sass/style.scss",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/style.css",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/sass/wp/_greenweb-fonts.scss",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/sass/wp/_layout.scss",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/sass/wp/_typography.scss",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/js/frontend/slidebars.js",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/sass/bootstrap/_glyphicons.scss",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/inc/theme-nav-walker-functions.php",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/inc/theme-basic-functions.php",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/tpl/tpl-navbar.php",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/sass/wp/_menu.scss",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/sass/_settings.scss",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/sass/_greenweb-fonts.scss",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/js/min/bootstrap-ck.js",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/js/bootstrap.js",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/inc/theme-load-js-css.php",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/sass/_function.scss",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/bootstrap.css",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/js/bootstrap/_bootstrap-info.js",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/sass/bootstrap.scss",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/js/bootstrap/min/bootstrap-info-ck.js",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/js/bootstrap/bootstrap-info.js",
+		"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/tpl/tpl-footer-navbar.php"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-user-registration,*.php",
+			"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-user-registration,*.js",
+			"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-user-registration",
+			"<current file>",
+			"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-sign-up,<current file>",
+			"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-sign-up",
+			"",
+			"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-sign-up,*.php",
+			"/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/easy-sign-up",
+			"",
+			"/Users/andrewrixom/Sites/wordpress-map-plugin/wp-content/plugins/easy-sign-up",
+			"",
+			"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/sass",
+			"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/",
+			"/Users/andrewrixom/Sites/green-wp-2014/wp-content/themes/the-theme-bs/sass",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"_log_version_number",
+			"install",
+			"register_activation_hook",
+			"_",
+			"show_options_that_start_with_this_string_in_key",
+			"rew_d_show_options_with_this_string_in_key",
+			"string",
+			"this_options",
+			"my_options",
+			"thisoptions",
+			"__( '', 'easy-user-registration' )",
+			"),",
+			"Yes",
+			"An edge case is a problem occurs for a few people 99.9% of you wont need it so feel free to ignor this. ",
+			"success",
+			"Your account has been set up and an email",
+			"$login_form_url",
+			"=",
+			"extra_variables_for_url",
+			"<form ",
+			"form_action_url",
+			"<form",
+			"action=registration#easy_user_registration_form",
+			"[easy-user-registration] failed",
+			"[easy-user-registration]",
+			"enqu",
+			"margi",
+			"modal_info",
+			"eur=true",
+			"add_js_to_footer",
+			");",
+			"die(",
+			"create_new_wp_user",
+			"_",
+			"follow_up_boss(",
+			"follow_up_boss",
+			"$ch",
+			"fob_json",
+			"follow_up_boss",
+			"admin_email",
+			"get_option",
+			"from_email_address",
+			"wp_mail",
+			":",
+			"=",
+			"$this->base",
+			"next_view",
+			"sfp",
+			"wp_mail_content_type",
+			"edd_",
+			"user_ID",
+			"edd_",
+			"$data",
+			"eur_lama",
+			"wp_verify_nonce",
+			"[easy-user-registration]",
+			"submit",
+			"22",
+			"form_action_url",
+			"font-size",
+			"%;\n",
+			"esc_attr",
+			"display_field",
+			"get_the_login_form",
+			"get_the_login_form(",
+			"submit_class",
+			"hide_form_label",
+			"form_description",
+			"form_title",
+			"get_the_login_form",
+			"submit_class",
+			"hide_form_label",
+			"form_title",
+			"form_description",
+			"get_the_login_form",
+			"get_the_login_form(",
+			"get_the_form",
+			"get_the_login_form",
+			"get_the_form",
+			"registration_settings_fields",
+			"easy_user_registration_login_form",
+			"easy_user_login_form",
+			"easy-user-registration",
+			"Registration",
+			"General",
+			"General Settings",
+			"define_ajax_hooks",
+			"define_public_hooks",
+			"get_plugin_name()",
+			"from_email_address",
+			"eur_f",
+			"intergrate_with_follow_up_boss",
+			"get_option",
+			"intergrate_with_follow_up_boss",
+			"rn",
+			"rnrn",
+			"rn",
+			"wp_new_user_notification",
+			"filter",
+			"=",
+			"get_option",
+			"selectedBrowser",
+			"phone",
+			"email",
+			"$this->base",
+			"registration_settings_fields",
+			"easy_user_registration_form",
+			"add_shortcode_easy_user_registration",
+			"easy_user_registration_form",
+			"add_shortcode_easy_user_registration",
+			"registration_settings_fields",
+			"$this->base ",
+			"echo",
+			"class-easy-user-registration-process-form.php",
+			"name_of_nonce_field",
+			"easy_user_registration_form_nonce",
+			"$lama",
+			"nonce",
+			"esu_",
+			"display_field",
+			"display_easy_user_registration_box",
+			"email",
+			"success",
+			"var pluginName = \"notify\";",
+			"checkbox",
+			"$(\"form\").",
+			"phone",
+			"frontend"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"eur-",
+			"eur_",
+			"esu_add_form_buttons",
+			"easy-sign-up"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "rew-debug.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2914,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2639,
+								2242
+							]
+						],
+						"settings":
+						{
+							"auto_name": "rew-debug.php",
+							"git_savvy.file_path": "/Users/andrewrixom/Sites/plugin-in-dev/wp-content/plugins/rew-debug/rew-debug.php",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 427,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										297,
+										321
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								308,
+								308
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"git_savvy.file_path": null,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ 	].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 658,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								658,
+								1
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"git_savvy.file_path": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "rew-debug.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"lib/esu-form-process-class.php"
+			],
+			[
+				"widget",
+				"lib/esu-widget-class.php"
+			],
+			[
+				"esu-ad",
+				"lib/esu-admin-class.php"
+			],
+			[
+				"wid",
+				"lib/esu-widget-class.php"
+			],
+			[
+				"_var",
+				"the-theme-bs/sass/bootstrap/_variables.scss"
+			],
+			[
+				"dat",
+				"combat-plugin/classes/class-combat-data.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Work/Sublime Projects/easy-data.sublime-project"
+			],
+			[
+				"data",
+				"~/Documents/Work/Sublime Projects/easy-data.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 359.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
